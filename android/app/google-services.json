@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "845034754213",
+    "project_id": "etore-c3e79",
+    "storage_bucket": "etore-c3e79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845034754213:android:93397efe6f8fe0b031bd4c",
+        "android_client_info": {
+          "package_name": "com.example.mane_don"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845034754213-f1tov2m8um0dugba1td167f9p8ec4tlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17RxjkqRB0MoiF0fCtaTZPxBc-a1xTJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845034754213-f1tov2m8um0dugba1td167f9p8ec4tlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845034754213-csftgf83v6ujsfpeqn5246uccir1kk5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maneDon"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845034754213:android:48dc5afb2cc8975e31bd4c",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845034754213-f1tov2m8um0dugba1td167f9p8ec4tlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD17RxjkqRB0MoiF0fCtaTZPxBc-a1xTJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845034754213-f1tov2m8um0dugba1td167f9p8ec4tlr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845034754213-csftgf83v6ujsfpeqn5246uccir1kk5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maneDon"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
